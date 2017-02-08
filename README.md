@@ -3,7 +3,7 @@
 Vim syntax highlighting for Sproto
 
 ## Installation
-1. cp sproto.vim ~/.vim/syntax/
+1. cp syntax/sproto.vim ~/.vim/syntax/
 2. Add the following to ~/.vimrc:
 
 ```vim
@@ -18,3 +18,5 @@ Or just create a new file called ~/.vim/ftdetect/sproto.vim with the previous li
 2. mv vim_sproto ~/.vim/bundle/sproto
 
 ![Alt text](vim_sproto_screenshot.png?raw=true "screenshot")
+
+
